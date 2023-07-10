@@ -503,17 +503,17 @@ p{
 
 .works_stage_heading div {
     font-family: "PT Sans", sans-serif;
-    font-size: 24px;
-    font-weight: 700;
+    font-size: 20px;
+    font-weight: 600;
     padding-left: 8px;
 }
 
 .works_stage_description {
     font-family: "PT Sans", sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     padding: 0 0 6px 8px;
     margin: 0;
-    line-height: 1.4;
+    line-height: 1.5;
     color: #000000;
 }
 
@@ -521,7 +521,7 @@ p{
     position: absolute;
     width: 150px;
     height: 59px;
-    top: 100px;
+    top: 80px;
     left: 300px;
 }
 
@@ -548,7 +548,7 @@ p{
     position: absolute;
     width: 150px;
     height: 59px;
-    top: 100px;
+    top: 80px;
     right: 300px;
 }
 
